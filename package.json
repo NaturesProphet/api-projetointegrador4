@@ -21,19 +21,25 @@
     "commit": "git-cz",
     "custom-tests": "echo \"(No other custom tests yet.)\" && echo",
     "release": "standard-version",
-    "clear": "rm -R node_modules"
+    "clear": "rm -R node_modules",
+    "postgre:test": "docker run --name postgre-srv -p 5432:5432 -e POSTGRES_USER=julius -e POSTGRES_PASSWORD=juliuspass -e POSTGRES_DB=integrador4 -d postgres:alpine",
+    "stop:all": "docker stop $(docker ps -q -a) && docker rm $(docker ps -q -a)"
   },
   "dependencies": {
     "@nestjs/common": "^6.0.0",
     "@nestjs/core": "^6.0.0",
     "@nestjs/platform-express": "^6.0.0",
+    "@nestjs/swagger": "^3.0.2",
+    "@nestjs/typeorm": "^6.1.2",
     "@types/dotenv": "^6.1.1",
     "@types/node": "^10.12.18",
     "dotenv": "^8.0.0",
+    "pg": "^7.11.0",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
     "rxjs": "^6.3.3",
     "ts-node": "8.1.0",
+    "typeorm": "^0.2.18",
     "typescript": "3.4.3"
   },
   "devDependencies": {
