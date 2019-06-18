@@ -1,1 +1,1 @@
-{"version":3,"file":"api.conf.js","sourceRoot":"","sources":["../../src/common/api.conf.ts"],"names":[],"mappings":";;AAAa,QAAA,IAAI,GAAW,MAAM,CAAE,OAAO,CAAC,GAAG,CAAC,IAAI,CAAE,CAAC;AAC1C,QAAA,GAAG,GAAW,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC"}
+{"version":3,"file":"api.conf.js","sourceRoot":"","sources":["../../src/common/api.conf.ts"],"names":[],"mappings":";;AAAa,QAAA,KAAK,GAAG,OAAO,CAAC,GAAG,CAAC,IAAI,CAAC"}

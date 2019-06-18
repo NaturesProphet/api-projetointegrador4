@@ -1190,68 +1190,16 @@
         "signature": "19e9aee9dcbcb693ecc8c72c4a0022162ffccfe6c79dc0cd643cd40e0f2355db"
       },
       "/home/mgarcia/GitProjects/api-projetointegrador4/src/common/api.conf.ts": {
-        "version": "e7b91902e553b57a0f312fc7f21e02b568870b35bd0b8b151791ff1cff8d5ee0",
-        "signature": "dbdb6794cffba7dda8dc89fc770054b544e52a49461ce95b245a21b6861427a9"
+        "version": "855f1a498070cbedb612b68fc72e275d99813631dad4c54c1ebce9953d88171f",
+        "signature": "a8802bb68de3bf924e6f61e8d976c9ffb6c7164a5cf8f1559263c91b3701f43e"
       },
       "/home/mgarcia/GitProjects/api-projetointegrador4/src/main.ts": {
-        "version": "77df82ebdd1210fc9c4e7c425da24c8f992aef78f41ffadc850a0dbf92914d36",
+        "version": "371747ab7d9ce52e056b33426aec20a329606dbc0f11fb13da9cc2ec5999f3cb",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "/home/mgarcia/GitProjects/api-projetointegrador4/src/common/database.conf.ts": {
         "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/connect/index.d.ts": {
-        "version": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82",
-        "signature": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/body-parser/index.d.ts": {
-        "version": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2",
-        "signature": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/cookiejar/index.d.ts": {
-        "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
-        "signature": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/range-parser/index.d.ts": {
-        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
-        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express-serve-static-core/index.d.ts": {
-        "version": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5",
-        "signature": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/mime/index.d.ts": {
-        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
-        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/serve-static/index.d.ts": {
-        "version": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff",
-        "signature": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express/index.d.ts": {
-        "version": "a6742e25ac12860727c22a379707e050a126c48c4dd98ddd795a3a33dd0a63c7",
-        "signature": "a6742e25ac12860727c22a379707e050a126c48c4dd98ddd795a3a33dd0a63c7"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/jest/index.d.ts": {
-        "version": "37dbdee3bb13bc254e9d75bbb75569e807369868e5cbd89ce72aa77fb22fcb75",
-        "signature": "37dbdee3bb13bc254e9d75bbb75569e807369868e5cbd89ce72aa77fb22fcb75"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/json5/index.d.ts": {
-        "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
-        "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/normalize-package-data/index.d.ts": {
-        "version": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613",
-        "signature": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/superagent/index.d.ts": {
-        "version": "e8bd972c3895277d7d9e702262a0408fbe36bb69c733bf26f9f15c396cad34c5",
-        "signature": "e8bd972c3895277d7d9e702262a0408fbe36bb69c733bf26f9f15c396cad34c5"
-      },
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/supertest/index.d.ts": {
-        "version": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3",
-        "signature": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3"
       }
     },
     "options": {
@@ -3065,78 +3013,6 @@
       "/home/mgarcia/GitProjects/api-projetointegrador4/src/common/database.conf.ts": [
         "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
         "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/connect/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/http.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/body-parser/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/connect/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/http.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/cookiejar/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/range-parser/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express-serve-static-core/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/http.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/events.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/range-parser/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/mime/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/serve-static/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express-serve-static-core/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/mime/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/body-parser/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/serve-static/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express-serve-static-core/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/jest/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/json5/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/normalize-package-data/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/superagent/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/fs.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/https.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/stream.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/cookiejar/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/supertest/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/superagent/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
       ]
     },
     "exportedModulesMap": {
@@ -4473,54 +4349,6 @@
         "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/globals.d.ts",
         "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts"
       ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/superagent/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/fs.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/https.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/stream.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/cookiejar/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/supertest/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/superagent/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express-serve-static-core/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/http.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/events.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/range-parser/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/body-parser/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/serve-static/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express-serve-static-core/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/serve-static/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express-serve-static-core/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/mime/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/body-parser/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/connect/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/http.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/connect/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/http.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@nestjs/common/interfaces/external/mqtt-options.interface.d.ts": [
         "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/index.d.ts",
         "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
@@ -4715,30 +4543,6 @@
         "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/normalize-package-data/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/json5/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/jest/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/mime/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/range-parser/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/cookiejar/index.d.ts": [
-        "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/util.d.ts",
         "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@nestjs/core/router/index.d.ts": [
@@ -5280,20 +5084,7 @@
       "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@nestjs/core/index.d.ts",
       "/home/mgarcia/GitProjects/api-projetointegrador4/src/common/api.conf.ts",
       "/home/mgarcia/GitProjects/api-projetointegrador4/src/main.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/src/common/database.conf.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/connect/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/body-parser/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/cookiejar/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/range-parser/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express-serve-static-core/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/mime/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/serve-static/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/express/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/jest/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/json5/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/normalize-package-data/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/superagent/index.d.ts",
-      "/home/mgarcia/GitProjects/api-projetointegrador4/node_modules/@types/supertest/index.d.ts"
+      "/home/mgarcia/GitProjects/api-projetointegrador4/src/common/database.conf.ts"
     ]
   },
   "version": "3.4.3"

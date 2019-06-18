@@ -14,7 +14,7 @@ const api_conf_1 = require("./common/api.conf");
 function bootstrap() {
     return __awaiter(this, void 0, void 0, function* () {
         const app = yield core_1.NestFactory.create(app_module_1.AppModule);
-        yield app.listen(api_conf_1.port);
+        yield app.listen(api_conf_1.porta);
     });
 }
 bootstrap();
