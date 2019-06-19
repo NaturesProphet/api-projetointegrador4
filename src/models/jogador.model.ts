@@ -18,8 +18,8 @@ export class Jogador extends BaseEntity {
   idade: number;
 
   @Column( "int" )
-  recordeAcertos: number;
+  acertos: number;
 
   @Column( "int" )
-  perguntasTotaisDoUltimoRecorde: number;
+  perguntas: number;
 }
