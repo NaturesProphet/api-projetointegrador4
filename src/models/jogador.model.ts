@@ -2,7 +2,6 @@ import { BaseEntity, Entity, PrimaryGeneratedColumn, CreateDateColumn, UpdateDat
 
 @Entity()
 export class Jogador extends BaseEntity {
-
   @PrimaryGeneratedColumn()
   id: number;
 
@@ -18,4 +17,9 @@ export class Jogador extends BaseEntity {
   @Column( "int" )
   idade: number;
 
+  @Column( "int" )
+  recordeAcertos: number;
+
+  @Column( "int" )
+  perguntasTotaisDoUltimoRecorde: number;
 }

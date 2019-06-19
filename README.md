@@ -35,12 +35,9 @@ $ npm run start:prod
 ## Test
 
 ```bash
-# unit tests
+# Todos os testes
 $ npm run test
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
+# gera dados de cobertura de testes
 $ npm run test:cov
 ```

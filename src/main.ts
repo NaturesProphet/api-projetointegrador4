@@ -1,4 +1,4 @@
-import { setEnvironment } from './common/env.service';
+import { setEnvironment } from './common/env.env_service';
 setEnvironment();
 
 import { NestFactory } from '@nestjs/core';
