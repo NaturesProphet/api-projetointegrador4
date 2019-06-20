@@ -15,16 +15,16 @@ async function bootstrap () {
   let options; // seleciona o schema http fora de prod e https em prod
   if ( env == 'production' ) {
     options = new DocumentBuilder()
-      .setTitle( 'Julius Report' )
+      .setTitle( 'Projeto Integrador 4' )
       .setDescription( pacote.description )
       .setVersion( pacote.version )
-      .addTag( 'JuliusReport' )
+      .addTag( 'Documentação das rotas disponíveis na API' )
       .setSchemes( 'https', 'http' )
       .addBearerAuth()
       .build();
   } else {
     options = new DocumentBuilder()
-      .setTitle( 'Julius Report' )
+      .setTitle( 'Projeto Integrador 4' )
       .setDescription( pacote.description )
       .setVersion( pacote.version )
       .addTag( 'Documentação das rotas disponíveis na API' )
