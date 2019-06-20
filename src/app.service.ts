@@ -8,7 +8,7 @@ export class AppService {
 
   async getRank (): Promise<Jogador[]> {
     let listaRanqueada = await createQueryBuilder( "jogador" )
-      .orderBy( `acertos`, "DESC" ).limit( 3 ).execute();
+      .orderBy( `acertos`, "DESC" ).limit( 4 ).execute();
     return listaRanqueada;
   }
 
