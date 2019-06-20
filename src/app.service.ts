@@ -12,6 +12,10 @@ export class AppService {
     return listaRanqueada;
   }
 
+  async getAllGames (): Promise<Jogador[]> {
+    return await Jogador.find();
+  }
+
   async salvaJogo ( jogo: JogadorDto ) {
 
     let jogador: Jogador = new Jogador();

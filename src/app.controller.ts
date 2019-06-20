@@ -11,6 +11,11 @@ export class AppController {
     return await this.appService.getRank();
   }
 
+  @Get( "/all" )
+  async getAllGames () {
+    return await this.appService.getAllGames();
+  }
+
   @Post()
   async salvaJogo ( @Res() res, @Body() body: JogadorDto ) {
     res.status( 201 ).send( await this.appService.salvaJogo( body ) );
