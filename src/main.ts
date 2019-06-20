@@ -20,7 +20,6 @@ async function bootstrap () {
       .setVersion( pacote.version )
       .addTag( 'Documentação das rotas disponíveis na API' )
       .setSchemes( 'https', 'http' )
-      .addBearerAuth()
       .build();
   } else {
     options = new DocumentBuilder()
@@ -29,7 +28,6 @@ async function bootstrap () {
       .setVersion( pacote.version )
       .addTag( 'Documentação das rotas disponíveis na API' )
       .setSchemes( 'http', 'https' )
-      .addBearerAuth()
       .build();
   }
   const document = SwaggerModule.createDocument( app, options );
